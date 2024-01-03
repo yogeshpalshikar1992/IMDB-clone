@@ -4,6 +4,7 @@ import {AiFillHome} from 'react-icons/ai'
 import { BsFillInfoCircleFill } from "react-icons/bs";
 import Link from 'next/link';
 import DarkModeSwitch from './DarkModeSwitch';
+import Navbar from './Navbar';
 
 export default function Header() {
   return (
